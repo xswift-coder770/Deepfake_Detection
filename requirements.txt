@@ -1,0 +1,11 @@
+accelerate==1.2.1
+pandas==2.2.2
+matplotlib==3.7.5
+seaborn==0.12.2
+tensor-flow==2.12.0
+scikit-learn==1.2.2
+transformers==4.47.1
+numpy==1.23.5
+torch==2.0.0
+Flask==2.3.3
+Pillow==9.5.0
